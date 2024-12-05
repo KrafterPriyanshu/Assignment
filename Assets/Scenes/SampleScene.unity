@@ -2230,7 +2230,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8977a62502ee57641b6920ea8a29bdff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLimit: 10
+  timeLimit: 120
   timerText: {fileID: 725366523}
   winScreen: {fileID: 201297782}
   gameOverScreen: {fileID: 1930598713}
